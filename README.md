@@ -1,9 +1,15 @@
 
 ####MyStore Product List
 
+
+
 This is a React project that implements a product list page. The page allows users to browse and filter a list of products, and view the details of individual products.
 
+
+
 ####Features
+
+
 
 The product list page has the following features:
 
@@ -15,7 +21,11 @@ The product list page has the following features:
 
 
 
+
+
 #####Technologies Used
+
+
 
 This project uses the following technologies:
 
@@ -24,6 +34,8 @@ This project uses the following technologies:
  -styled-components
 
  -Axios
+
+
 
 
 ####Installation and Setup
@@ -40,11 +52,20 @@ This project uses the following technologies:
 
   -The development server will run on port 3000 by default. You can open your browser and navigate to http://localhost:3000 to see the product list page running.
 
+
+
+
+
 ####Making Changes to the Code
 
   -To make changes to the code and see them reflected in the browser, simply save the changes and the development server will automatically reload the page.
 
+
+
+
 ####Deploying to Production
+
+
 
   -When you are ready to deploy your project to production, you can run the following command to create a production build of the project:
 
