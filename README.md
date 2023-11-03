@@ -18,6 +18,7 @@ The product list page has the following features:
 This project uses the following technologies:
 
  -React
+ 
  -styled-components
  -Axios
 
