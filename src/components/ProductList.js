@@ -64,7 +64,7 @@ const ProductCard = styled.div`
   border-radius: 10px;
   padding: 10px;
   margin: 10px;
-  width: 263px;
+  width: 28%;
   height:300px;
   background: #ffffff;
   p {
@@ -125,6 +125,8 @@ const RightPanel = styled.div`
   width: 80%;
   background: #f3f3f7;
   border-radius: 10px;
+  align-items: center;
+  justift-content:center;
   @media (max-width: 600px) {
     width: 100%;
   }
